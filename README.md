@@ -1,2 +1,3 @@
 # Tron-voting
-Voting in TRON Network
+
+Simple solidity voting system.
